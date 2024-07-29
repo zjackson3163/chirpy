@@ -1,3 +1,4 @@
+I'm practicing Laravel!! I'm learning frameworks now and can definitely understand the appeal. I know they are used in web dev but I knew I needed to understand the basics before I moved on to frameworks. Now I do and I'm so excited to start using them, I can already tell development is going to be so much quicker!!
 <hr>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
